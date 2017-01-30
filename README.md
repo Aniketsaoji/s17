@@ -20,8 +20,8 @@
 | Mtng |      | Date | Topic                          | Notes / Code                   | Psets      |
 | :--: | :--: | :--: | :----------------------------- | :----------------------------- | :--------- |
 |  1   |  W   | 1/18 | Introduction and Overview      | 011817.md                      | 1 Out      |
-|  2   |  F   | 1/20 | Background Material            | 012017.md                      |            |
-|  3   |  M   | 1/23 | Introduction to OCaml          | 012317.md                      |            |
+|  2   |  F   | 1/20 | Background Material            | [012017.md](./notes/012017.md) |            |
+|  3   |  M   | 1/23 | Introduction to OCaml          | [012317.md](./notes/012317.md) |            |
 |  4   |  W   | 1/25 | OCaml; eval & format           | 012517.md                      |            |
 |  5   |  F   | 1/27 | Context-Free Grammars; Parsing | [012717.md](./notes/012717.md) | 1 In/2 Out |
 |  6   |  M   | 1/30 | Grammar Hacking; Parsing       | [013017.md](./notes/013017.md) |            |
