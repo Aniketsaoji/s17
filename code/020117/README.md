@@ -23,7 +23,7 @@ Righty is an odd little language of logical expressions. It's odd because the op
 
                                 expr   ::= term || expr | term
                                 term   ::= factor && term | factor
-                                factor ::= t | f | !E | ( E )
+                                factor ::= t | f | !expr | ( expr )
 
 ```
 
