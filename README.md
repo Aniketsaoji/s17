@@ -51,7 +51,7 @@
 |  27  |  M   | 3/27 | Subtyping                                |                                          |            |
 |  28  |  W   | 3/29 | Types in Java                            |                                          |            |
 |  29  |  F   | 3/31 | PS6 Compiler Hacking Practicum           |                                          |            |
-|  30  |  M   | 4/3  | Static Chains, Closures                  |                                          |            |
+|  30  |  M   | 4/3  | Static Chains, Closures                  | [040317.md](./notes/040317.md)           |            |
 |  31  |  W   | 4/5  | Mars/miniC Compiler Lab                  |                                          |            |
 |  32  |  F   | 4/7  | **Second Midterm**                       | [secondKey.pdf](./resources/secondKey.pdf) |            |
 |  33  |  M   | 4/10 |                                          |                                          |            |
